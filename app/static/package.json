@@ -5,8 +5,8 @@
   "main": "./src/index.js",
   "scripts": {
     "start": "python -m flask run",
-    "dev-build": "webpack --progress -d --config webpack.config.js",
-    "watch": "webpack --progress -d --config webpack.config.js --watch"
+    "dev-build": "webpack --progress -d --config webpack.config.dev.js",
+    "watch": "webpack --progress -d --config webpack.config.dev.js --watch"
   },
   "repository": {
     "type": "git",
