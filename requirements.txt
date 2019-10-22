@@ -22,7 +22,7 @@ openpyxl==2.4.8
 pathlib==1.0.1
 pbr==3.1.1
 pew==0.1.26
-Pillow==4.2.1
+Pillow==6.2.0
 pip-tools==1.9.0
 pipenv==7.0.1
 post==0.0.0
